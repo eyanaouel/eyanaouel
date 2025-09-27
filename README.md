@@ -25,8 +25,7 @@ I'm a <b>Data Science & AI enthusiast</b> with a passion for building intelligen
 <br>
 ⚡ Skilled in <b>data engineering, RAG pipelines, and cloud-based AI solutions</b>  
 <br>
-📊 Currently exploring projects in <b>finance, consulting, and high technology</b> 
-  
+📊 Passionate about tackling real-world challenges through data science, AI, and emerging technologies.  
 </p> 
 
 
