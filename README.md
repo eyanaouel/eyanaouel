@@ -7,31 +7,37 @@
 🚀 Interested in <b>finance, consulting, and high technology</b>  
 </p>  
 
----
 
 <h2 align="center">🛠️ Skills & Tools</h2>  
 
 <p align="center">
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+</p>
 
-### 💻 Languages  
-<img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white"/>
+<p align="center">
+  <!-- Data Science -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50"/>
+</p>
 
-### 🤖 Data Science & AI  
-- Machine Learning & Deep Learning (TensorFlow, Keras, PyTorch)  
-- NLP & Computer Vision  
-- Data Analysis (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)  
-
-### ⚙️ Tools & Technologies  
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>  
+<p align="center">
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="Symfony" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+</p>
 
 </p>  
 
