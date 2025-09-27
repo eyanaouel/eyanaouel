@@ -47,7 +47,7 @@ Passionate about tackling real-world challenges through data science, AI, and em
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="90" height="40"/>
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="60" height="40"/>
-  <img src="https://commons.wikimedia.org/wiki/File:TensorFlow_logo.svg" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="50" height="50"/>
   <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="50" height="50"/>
   <img src="https://github.com/dmlc/dmlc.github.io/blob/master/img/logo-m/xgboost.png?raw=true" width="50" height="50"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50"/>
@@ -82,9 +82,9 @@ Passionate about tackling real-world challenges through data science, AI, and em
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="70" height="50"/>
-  <img src="https://commons.wikimedia.org/wiki/File:OpenStack%C2%AE_Logo_2016.svg" alt="OpenStack" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/OpenStack_logo_2016.svg" alt="OpenStack" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="70" height="50"/>
-  <img src="https://commons.wikimedia.org/wiki/File:Talend_logo.svg" alt="Talend" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Talend_logo.svg" alt="Talend" width="50" height="50"/>
 </p>
 
  <h5>    Frameworks  </h5>  
