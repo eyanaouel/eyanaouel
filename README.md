@@ -16,23 +16,23 @@
 ## <h2 align="center">👩‍💻 About Me</h2>  
 
 <p align="center">
-Hi there 👋 <br>
+
 I'm a <b>Data Science & AI enthusiast</b> with a passion for building intelligent systems.  
 <br><br>
-🔍 Specialized in <b>machine learning, deep learning, and explainable AI (XAI)</b>  
+ Specialized in <b>machine learning, deep learning, and explainable AI (XAI)</b>  
 <br>
-🤖 Experienced with <b>time-series analysis, generative AI, and LLMs</b>  
+ Experienced with <b>time-series analysis, generative AI, and LLMs</b>  
 <br>
-⚡ Skilled in <b>data engineering, RAG pipelines, and cloud-based AI solutions</b>  
+ Skilled in <b>data engineering, RAG pipelines, and cloud-based AI solutions</b>  
 <br>
-📊 Passionate about tackling real-world challenges through data science, AI, and emerging technologies.  
+ Passionate about tackling real-world challenges through data science, AI, and emerging technologies.  
 </p> 
 
 
 
 <h2 align="center">🛠️ Skills & Tools</h2>  
 
-### 🚀 Programming Languages
+###  Programming Languages
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50" height="50"/>
@@ -43,7 +43,7 @@ I'm a <b>Data Science & AI enthusiast</b> with a passion for building intelligen
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
 </p>
 
-### 🤖 Data Science, AI, ML & DL  
+###  Data Science, AI, ML & DL  
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
@@ -65,7 +65,7 @@ I'm a <b>Data Science & AI enthusiast</b> with a passion for building intelligen
   <img src="https://img.shields.io/badge/LLaMA-MetaAI-black?style=for-the-badge"/>
 </p>
 
-### 🗄️ Databases & Big Data
+###  Databases & Big Data
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
@@ -77,7 +77,7 @@ I'm a <b>Data Science & AI enthusiast</b> with a passion for building intelligen
   <img src="https://spark.apache.org/images/spark-logo-rev.svg" width="90" height="40"/>
 </p>
 
-### ☁️ Cloud & Tools
+###  Cloud & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/>
@@ -91,7 +91,7 @@ I'm a <b>Data Science & AI enthusiast</b> with a passion for building intelligen
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/TalendLogo.png" width="90" height="40"/>
 </p>
 
-### ⚙️ Frameworks
+###  Frameworks
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50"/>
