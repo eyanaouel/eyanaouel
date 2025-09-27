@@ -104,7 +104,7 @@ Passionate about tackling real-world challenges through data science, AI, and em
   <a href="https://learn.nvidia.com/certificates?id=HgJGgaqKQxi8ZTso8-4Xyw#">
     <img src="https://img.shields.io/badge/NVIDIA-Applications of AI for Anomaly Detection-brightgreen?style=for-the-badge&logo=nvidia&logoColor=white"/>   </a>
   <a href="https://learn.nvidia.com/certificates?id=CESWop9oQqq3iUFbHuTLEw">
-    <img src="https://img.shields.io/badge/Building Transformer-Based Natural Language Processing Applications?style=for-the-badge&logo=nvidia&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NVIDIA-Building Transformer-Based Natural Language Processing Applications-brightgreen?style=for-the-badge&logo=nvidia&logoColor=white"/>
   </a>
 </p>
 
