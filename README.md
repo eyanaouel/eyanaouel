@@ -84,7 +84,7 @@ Passionate about tackling real-world challenges through data science, AI, and em
   <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="70" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/OpenStack_logo_2016.svg" alt="OpenStack" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="70" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Talend_logo.svg" alt="Talend" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/306835/talend.svg" alt="Talend" width="50" height="50"/>
 </p>
 
  <h5>    Frameworks  </h5>  
