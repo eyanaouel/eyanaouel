@@ -101,7 +101,7 @@ Passionate about tackling real-world challenges through data science, AI, and em
 <h2 align="center"> Certifications</h2>  
 
 <p align="center">
-  <a href="https://courses.nvidia.com/certificates/tsySqX7jSfWy5q22OMI6hw/">
+  <a href="[https://courses.nvidia.com/certificates/tsySqX7jSfWy5q22OMI6hw/](https://drive.google.com/file/d/1dSpLoN-HvrzuCzlaQqzQcCslgs0GAOMM/view?usp=sharing)">
     <img src="https://img.shields.io/badge/NVIDIA-Certified%20AI%20Specialist-brightgreen?style=for-the-badge&logo=nvidia&logoColor=white"/>
   </a>
   <a href="https://courses.nvidia.com/certificates/your_cert_id/">
