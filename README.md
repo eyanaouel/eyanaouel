@@ -1,13 +1,13 @@
 <!-- Salutation -->
-<h1 align="center">👋 Hello, I am <span style="color:#0077B5">Eya Naouel</span></h1>
+<h1 align="center">👋 Hello, I am <span style="color:#0077B5">Eya NAOUEL</span></h1>
 <h3 align="center">Étudiante Ingénieure en Data Science & Intelligence Artificielle</h3>
 
 <!-- Icônes de contact -->
 <p align="center">
-  <a href="mailto:eya@example.com">
+  <a href="mailto:naoueleya@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/tonprofil">
+  <a href="www.linkedin.com/in/eya-naouel">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
