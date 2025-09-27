@@ -4,7 +4,7 @@
 
 <!-- Contact Icons -->
 <p align="center">
-  <a href="mailto:eya@example.com">
+  <a href="mailto:naoueleya@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/tonprofil">
