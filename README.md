@@ -12,19 +12,23 @@
   </a>
 </p>
 
----
 
-## 👩‍💻 About Me  
+## <h2 align="center">👩‍💻 About Me</h2>  
 
-Hi there 👋  
-I'm a **Data Science & AI enthusiast** with a passion for building intelligent systems.  
+<p align="center">
+Hi there 👋 <br>
+I'm a <b>Data Science & AI enthusiast</b> with a passion for building intelligent systems.  
+<br><br>
+🔍 Specialized in <b>machine learning, deep learning, and explainable AI (XAI)</b>  
+<br>
+🤖 Experienced with <b>time-series analysis, generative AI, and LLMs</b>  
+<br>
+⚡ Skilled in <b>data engineering, RAG pipelines, and cloud-based AI solutions</b>  
+<br>
+📊 Currently exploring projects in <b>finance, consulting, and high technology</b>  
+</p> 
 
-🔍 Specialized in **machine learning, deep learning, and explainable AI (XAI)**  
-🤖 Experienced with **time-series analysis, generative AI, and LLMs**  
-⚡ Skilled in **data engineering, RAG pipelines, and cloud-based AI solutions**  
-📊 Currently exploring projects in **finance, consulting, and high technology**  
 
----
 
 <h2 align="center">🛠️ Skills & Tools</h2>  
 
@@ -96,7 +100,7 @@ I'm a **Data Science & AI enthusiast** with a passion for building intelligent s
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="50" height="50"/>
 </p>
 
----
+
 
 <h2 align="center">📜 Certifications</h2>  
 
@@ -109,7 +113,7 @@ I'm a **Data Science & AI enthusiast** with a passion for building intelligent s
   </a>
 </p>
 
----
+
 
 <h2 align="center">📊 GitHub Stats</h2>  
 
