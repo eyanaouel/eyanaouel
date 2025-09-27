@@ -82,7 +82,7 @@ Passionate about tackling real-world challenges through data science, AI, and em
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="70" height="50"/>
-  <img src="https://superuser.openinfra.org/articles/openstack-new-logo/" alt="OpenStack" width="50" height="50"/>
+  <img src="https://worldvectorlogo.com/logo/openstack" alt="OpenStack" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="70" height="50"/>
   <img src="https://www.svgrepo.com/show/306835/talend.svg" alt="Talend" width="50" height="50"/>
 </p>
