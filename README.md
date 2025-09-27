@@ -41,7 +41,7 @@ Passionate about tackling real-world challenges through data science, AI, and em
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
 </p>
 
-###  Data Science, AI, ML & DL  
+<h5>  Data Science, AI, ML & DL </h5>  
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
@@ -63,7 +63,7 @@ Passionate about tackling real-world challenges through data science, AI, and em
   <img src="https://img.shields.io/badge/LLaMA-MetaAI-black?style=for-the-badge"/>
 </p>
 
-###  Databases & Big Data
+ <h5>   Databases & Big Data   </h5>  
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
@@ -75,7 +75,7 @@ Passionate about tackling real-world challenges through data science, AI, and em
   <img src="https://spark.apache.org/images/spark-logo-rev.svg" width="90" height="40"/>
 </p>
 
-###  Cloud & Tools
+ <h5>    Cloud & Tools   </h5>  
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/>
@@ -89,7 +89,7 @@ Passionate about tackling real-world challenges through data science, AI, and em
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/TalendLogo.png" width="90" height="40"/>
 </p>
 
-###  Frameworks
+ <h5>    Frameworks  </h5>  
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50"/>
