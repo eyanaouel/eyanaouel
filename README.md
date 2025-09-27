@@ -13,12 +13,12 @@
 </p>
 
 
-## <h2 align="center">👩‍💻 About Me</h2>  
+## <h2 align="center"> About Me</h2>  
 
 <p align="center">
 
 I'm a <b>Data Science & AI enthusiast</b> with a passion for building intelligent systems.  
-<br><br>
+<br>
  Specialized in <b>machine learning, deep learning, and explainable AI (XAI)</b>  
 <br>
  Experienced with <b>time-series analysis, generative AI, and LLMs</b>  
@@ -30,7 +30,7 @@ I'm a <b>Data Science & AI enthusiast</b> with a passion for building intelligen
 
 
 
-<h2 align="center">🛠️ Skills & Tools</h2>  
+<h2 align="center"> Skills & Tools</h2>  
 
 ###  Programming Languages
 <p align="center">
@@ -102,7 +102,7 @@ I'm a <b>Data Science & AI enthusiast</b> with a passion for building intelligen
 
 
 
-<h2 align="center">📜 Certifications</h2>  
+<h2 align="center"> Certifications</h2>  
 
 <p align="center">
   <a href="https://courses.nvidia.com/certificates/your_cert_id/">
@@ -115,7 +115,7 @@ I'm a <b>Data Science & AI enthusiast</b> with a passion for building intelligen
 
 
 
-<h2 align="center">📊 GitHub Stats</h2>  
+<h2 align="center"> GitHub Stats</h2>  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TonNomGithub&show_icons=true&theme=tokyonight" height="160"/>
