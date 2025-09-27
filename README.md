@@ -57,10 +57,10 @@
 <h2 align="center">📜 Certifications</h2>  
 
 <p align="center">
-✅ EFSET C1 Advanced (English) <br>
-✅ Oracle Database & Advanced Data Analysis <br>
-✅ Scrum & Agile Project Management <br>
-✅ Microsoft / IBM Data Science & AI certifications (in progress) <br>
+ EFSET C1 Advanced (English) <br>
+ Oracle Database & Advanced Data Analysis <br>
+ Scrum & Agile Project Management <br>
+ Microsoft / IBM Data Science & AI certifications (in progress) <br>
 </p>  
 
 <h2 align="center">📊 GitHub Stats</h2>  
