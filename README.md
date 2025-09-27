@@ -30,7 +30,7 @@ Passionate about tackling real-world challenges through data science, AI, and em
 <h2 align="center"> Skills & Tools </h2>
  
 
-###  Programming Languages
+<h3>  Programming Languages </h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50" height="50"/>
