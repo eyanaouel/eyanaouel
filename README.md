@@ -63,7 +63,7 @@
 
 ---
 
-## 📊 <p align="center">Statistiques GitHub</p>  
+## <h2 align="center">📊 Statistiques GitHub</h2> 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TonNomGithub&show_icons=true&theme=tokyonight" height="160"/>
