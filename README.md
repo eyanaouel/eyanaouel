@@ -1,79 +1,78 @@
-# 👋 Bonjour, je suis Eya Naouel  
+<div align="center">
 
-🎓 Étudiante ingénieure en **Data Science & Intelligence Artificielle**  
-💡 Passionnée par l’**IA, le Machine Learning, et la Data Science**  
-🚀 À la recherche d’un **stage PFE à l’international (2025)**  
-🌍 Ouverte aux opportunités dans la **finance, consulting, et haute technologie**
+<table>
+<tr>
+<td width="30%" align="center">
+
+<!-- Profile Photo -->
+<img src="https://your-photo-link-here.jpg" alt="Eya Naouel" width="200" style="border-radius:50%">
+
+<br><br>
+
+**Eya Naouel**  
+🎓 Data Science & AI Engineering Student  
+🌍 Passionate about **AI, Data Science & Finance**  
+
+</td>
+<td width="70%" valign="top">
+
+<!-- Contact Icons -->
+<a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:eya@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 ---
 
-## 📌 À propos de moi
-- 🔎 Intérêt pour **Data Science, AI, NLP, Deep Learning, MLOps**  
-- 💼 Expérience en banque et simulations avec **GE Aerospace, British Airways, Deloitte, etc.**  
-- 📊 Formation en **Spring Boot, .NET, Symfony, Azure DevOps, Statistical Analysis**  
-- 🌱 Actuellement : amélioration de mes compétences en **ML avancé et certifications internationales**  
+## 👩‍💻 About Me  
+- 🚀 Engineering student in **Data Science & Artificial Intelligence**  
+- 💡 Interested in **Machine Learning, NLP, Deep Learning, and MLOps**  
+- 🌱 Currently improving skills in **Spring Boot, .NET, Azure DevOps & Statistical Analysis**  
+- 🎯 Seeking a **PFE internship abroad (2025)**  
 
 ---
 
-## 🛠️ Compétences techniques  
+## 🛠️ Skills & Tools  
 
-### 🚀 Langages & Outils  
+**Languages & Programming**  
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)  
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)  
 
-### 🧠 Data Science & AI  
-- Machine Learning / Deep Learning (TensorFlow, Keras, PyTorch)  
-- NLP & Computer Vision  
-- Data Analysis (Pandas, Numpy, Scikit-Learn, Matplotlib)  
-- Big Data & Data Warehouse  
+**AI & Data Science**  
+TensorFlow | PyTorch | Scikit-Learn | Pandas | NumPy | NLP | Computer Vision  
 
-### ⚙️ Outils Dev & Cloud  
-- Git / GitHub / GitLab  
-- Docker & MLOps (CI/CD, ML pipelines)  
-- Azure, GCP (bases)  
-- Spring Boot, .NET, Symfony, React  
+**Dev & Cloud**  
+Git | Docker | Spring Boot | .NET | Symfony | React | Azure | GCP  
 
 ---
 
-## 📂 Projets sélectionnés  
-
-- 🔹 **Chatbot Administratif (React + Symfony)**  
-💬 Un assistant intelligent pour répondre aux questions administratives en Tunisie.  
-👉 [Lien du projet](https://github.com/ton-projet)  
-
-- 🔹 **Segmentation d’individus (Machine Learning)**  
-📊 Projet académique basé sur des algorithmes de clustering et classification.  
-👉 [Lien du projet](https://github.com/ton-projet)  
-
-- 🔹 **Diagnostic assisté par IA (Alzheimer, Parkinson)**  
-🧠 Projet Deep Learning sur IRM cérébrales avec explicabilité intégrée (Grad-CAM).  
-👉 [Lien du projet](https://github.com/ton-projet)  
-
----
-
-## 📜 Certifications & Formations  
-- ✅ **EFSET C1 Advanced (Anglais)**  
-- ✅ **Oracle Database & Advanced Data Analysis**  
-- ✅ **Scrum & Agile Project Management**  
-- ✅ **Microsoft / IBM Data Science & AI certifications (en cours)**  
-
----
-
-## 📊 Statistiques GitHub  
+## 📊 GitHub Stats  
 
 ![Eya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonNomGithub&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonNomGithub&layout=compact&theme=tokyonight)  
 
 ---
 
-## 📫 Me contacter  
-📧 [eya@example.com](mailto:eya@example.com)  
-💼 [LinkedIn](https://linkedin.com/in/tonprofil)  
-💻 [Portfolio Web](https://ton-site.com)  
+## 🚀 Projects  
 
----
-✨ *Merci pour votre visite ! N’hésitez pas à me contacter pour toute opportunité de collaboration.*  
+- **Chatbot for Administration (React + Symfony)**  
+💬 An intelligent chatbot answering administrative questions in Tunisia.  
+👉 [View Project](https://github.com/your-repo)
 
+- **Segmentation of Individuals (Machine Learning)**  
+📊 Clustering and classification project on socio-economic data.  
+👉 [View Project](https://github.com/your-repo)
+
+- **AI-assisted Diagnosis of Neurodegenerative Diseases**  
+🧠 Deep Learning on brain MRI with explainability (Grad-CAM).  
+👉 [View Project](https://github.com/your-repo)
+
+</td>
+</tr>
+</table>
+
+</div>
