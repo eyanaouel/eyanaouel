@@ -13,24 +13,22 @@
 </p>
 
 
-## <h2 align="center"> About Me</h2>  
+<h2 align="center"> About Me </h2>
 
 <p align="center">
-
 I'm a <b>Data Science & AI enthusiast</b> with a passion for building intelligent systems.  
 <br>
- Specialized in <b>machine learning, deep learning, and explainable AI (XAI)</b>  
+Specialized in <b>machine learning, deep learning, and explainable AI (XAI)</b>  
 <br>
- Experienced with <b>time-series analysis, generative AI, and LLMs</b>  
+Experienced with <b>time-series analysis, generative AI, and LLMs</b>  
 <br>
- Skilled in <b>data engineering, RAG pipelines, and cloud-based AI solutions</b>  
+Skilled in <b>data engineering, RAG pipelines, and cloud-based AI solutions</b>  
 <br>
- Passionate about tackling real-world challenges through data science, AI, and emerging technologies.  
-</p> 
+Passionate about tackling real-world challenges through data science, AI, and emerging technologies.  
+</p>
 
-
-
-<h2 align="center"> Skills & Tools</h2>  
+<h2 align="center"> Skills & Tools </h2>
+ 
 
 ###  Programming Languages
 <p align="center">
