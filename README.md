@@ -1,6 +1,6 @@
 <!-- Salutation -->
 <h1 align="center">👋 Hello, I am <span style="color:#0077B5">Eya NAOUEL</span></h1>
-<h3 align="center">Étudiante Ingénieure en Data Science & Intelligence Artificielle</h3>
+<h3 align="center">🎓 Data Science & Artificial Intelligence Engineering Student</h3>
 
 <!-- Icônes de contact -->
 <p align="center">
