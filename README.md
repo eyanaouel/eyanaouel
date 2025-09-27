@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">👋 Hello, I am <span style="color:#0077B5">Eya Naouel</span></h1>
+<h1 align="center"> Hello, I am <span style="color:#0077B5">Eya Naouel</span></h1>
 <h3 align="center">Data Science & Artificial Intelligence Engineering Student</h3>
 
 <!-- Contact -->
