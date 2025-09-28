@@ -100,7 +100,7 @@ Passionate about tackling real-world challenges through data science, AI, and em
 
 <h2 align="center"> Certifications</h2>  
 
-<p align="center">
+<p align="center"> 
   <a href="https://learn.nvidia.com/certificates?id=HgJGgaqKQxi8ZTso8-4Xyw#">
     <img src="https://img.shields.io/badge/NVIDIA-Applications of AI for Anomaly Detection-brightgreen?style=for-the-badge&logo=nvidia&logoColor=white"/>
   </a>
