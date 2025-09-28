@@ -113,26 +113,12 @@ Passionate about tackling real-world challenges through data science, AI, and em
 
 <h2 align="center"> GitHub Stats</h2>  
 
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=eyanaouel&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyanaouel&layout=compact&theme=tokyonight&langs_count=20" height="200"/>
-
-</p> 
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=eyanaouel&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eyanaouel&show_icons=true&theme=tokyonight" height="160" width="400" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyanaouel&layout=compact&theme=tokyonight&langs_count=20" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyanaouel&layout=compact&theme=tokyonight&langs_count=20" height="160" width="400" />
 
 </p>
 
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=eyanaouel&show_icons=true&theme=tokyonight" width="400" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyanaouel&layout=compact&theme=tokyonight&langs_count=20" width="400" />
-
-</p>
