@@ -115,7 +115,7 @@ Passionate about tackling real-world challenges through data science, AI, and em
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eyanaouel&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyanaouel&layout=compact&theme=tokyonight" width="300" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyanaouel&layout=compact&theme=tokyonight" width="300" height="200"/>
 </p>  
 
 <p align="center">✨ Thank you for visiting! ✨</p>  
