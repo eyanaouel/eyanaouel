@@ -2,8 +2,9 @@
 <h1 align="center"> Hello, I am <span style="color:#0077B5">Eya NAOUEL</span></h1>
 <h3 align="center">Data Science & Artificial Intelligence Engineering Student</h3>
 
-<!--
+
 <!-- Contact -->
+<!--
 <p align="center">
   <a href="mailto:naoueleya@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
