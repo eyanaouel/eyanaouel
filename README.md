@@ -114,11 +114,8 @@ Passionate about tackling real-world challenges through data science, AI, and em
  
 
 <h2 align="center"> GitHub Stats</h2>  
-
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=eyanaouel&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=600&random=123" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyanaouel&layout=compact&theme=tokyonight&langs_count=20&cache_seconds=600&random=123" height="160"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=eyanaouel&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyanaouel&layout=compact&theme=tokyonight&langs_count=8&include_all_commits=true&hide_border=true" height="160"/>
 </p>
 
