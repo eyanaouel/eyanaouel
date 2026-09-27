@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center"> Hello, I am <span style="color:#0077B5">Eya NAOUEL</span></h1>
-<h3 align="center">Data Science & Artificial Intelligence Engineering Student</h3>
+<h3 align="center">Data Science & Artificial Intelligence Engineer</h3>
 
 <!-- Contact -->
 <!--
@@ -16,7 +16,7 @@
 
 <h2 align="center"> About Me </h2>
 <p align="center">
-I'm a <b>Data Science & AI enthusiast</b> passionate about building intelligent systems end-to-end.  
+I'm a <b>Data Science & Artificial Intelligence Engineer</b> passionate about building intelligent systems end-to-end.  
 <br>
 Specialized in <b>Deep Learning, NLP, Generative AI, and Speech Synthesis (TTS)</b>  
 <br>
