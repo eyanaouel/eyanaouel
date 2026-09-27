@@ -2,7 +2,6 @@
 <h1 align="center"> Hello, I am <span style="color:#0077B5">Eya NAOUEL</span></h1>
 <h3 align="center">Data Science & Artificial Intelligence Engineering Student</h3>
 
-
 <!-- Contact -->
 <!--
 <p align="center">
@@ -16,23 +15,21 @@
 -->
 
 <h2 align="center"> About Me </h2>
-
 <p align="center">
-I'm a <b>Data Science & AI enthusiast</b> with a passion for building intelligent systems.  
+I'm a <b>Data Science & AI enthusiast</b> passionate about building intelligent systems end-to-end.  
 <br>
-Specialized in <b>machine learning, deep learning, and explainable AI (XAI)</b>  
+Specialized in <b>Deep Learning, NLP, Generative AI, and Speech Synthesis (TTS)</b>  
 <br>
-Experienced with <b>time-series analysis, generative AI, and LLMs</b>  
+Recently developed a <b>multi-speaker Text-to-Speech system in Tunisian Arabic dialect</b>, covering the full pipeline from data preparation to model training and deployment.  
 <br>
-Skilled in <b>data engineering, RAG pipelines, and cloud-based AI solutions</b>  
+Experienced with <b>RAG, LLMs, time-series analysis, explainable AI, and MLOps</b>.  
 <br>
-Passionate about tackling real-world challenges through data science, AI, and emerging technologies.  
+Passionate about solving real-world problems through data and AI.
 </p>
 
 <h2 align="center"> Skills & Tools </h2>
  
-
-<h5>  Programming Languages </h5>
+<h5> Programming Languages </h5>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50" height="50"/>
@@ -43,7 +40,7 @@ Passionate about tackling real-world challenges through data science, AI, and em
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
 </p>
 
-<h5>  Data Science, AI, ML & DL </h5>  
+<h5> Data Science, AI, ML & DL </h5>  
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
@@ -54,16 +51,28 @@ Passionate about tackling real-world challenges through data science, AI, and em
   <img src="https://github.com/dmlc/dmlc.github.io/blob/master/img/logo-m/xgboost.png?raw=true" width="50" height="50"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50"/>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/SHAP-ExplainableAI-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LIME-ExplainableAI-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GroQ-API-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LLaMA-MetaAI-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TTS-Speech%20Synthesis-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Whisper-ASR-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Coqui%20TTS-VITS-important?style=for-the-badge"/>
 </p>
 
- <h5>   Databases & Big Data   </h5>  
+<h5> Speech & Audio Processing </h5>
+<p align="center">
+  <img src="https://img.shields.io/badge/Whisper-OpenAI-black?style=for-the-badge&logo=openai"/>
+  <img src="https://img.shields.io/badge/Pyannote-Speaker%20Diarization-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Resemblyzer-Voice%20Embeddings-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Silero%20VAD-Voice%20Activity-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FFmpeg-Audio%20Processing-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pedalboard-Audio%20Effects-purple?style=for-the-badge"/>
+</p>
+
+<h5> Databases & Big Data </h5>  
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
@@ -75,7 +84,7 @@ Passionate about tackling real-world challenges through data science, AI, and em
   <img src="https://spark.apache.org/images/spark-logo-rev.svg" width="90" height="40"/>
 </p>
 
- <h5>    Cloud & Tools   </h5>  
+<h5> Cloud & Tools </h5>  
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/>
@@ -89,19 +98,17 @@ Passionate about tackling real-world challenges through data science, AI, and em
   <img src="https://www.svgrepo.com/show/306835/talend.svg" alt="Talend" width="50" height="50"/>
 </p>
 
- <h5>    Frameworks  </h5>  
+<h5> Frameworks </h5>  
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-
-
 <h2 align="center"> Certifications</h2>  
-
 <p align="center"> 
   <a href="https://learn.nvidia.com/certificates?id=HgJGgaqKQxi8ZTso8-4Xyw#">
     <img src="https://img.shields.io/badge/NVIDIA-Applications of AI for Anomaly Detection-brightgreen?style=for-the-badge&logo=nvidia&logoColor=white"/>
@@ -110,12 +117,9 @@ Passionate about tackling real-world challenges through data science, AI, and em
     <img src="https://img.shields.io/badge/NVIDIA-Building%20Transformer--Based%20Natural%20Language%20Processing%20Applications-green?style=for-the-badge&logo=nvidia&logoColor=white"/>
   </a>
 </p>
-
  
-
 <h2 align="center"> GitHub Stats</h2>  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=eyanaouel&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyanaouel&layout=compact&theme=tokyonight&langs_count=8&include_all_commits=true&hide_border=true" height="160"/>
 </p>
-
